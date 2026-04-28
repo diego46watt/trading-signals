@@ -1,1 +1,4 @@
-run_ts,signal_date,pair,regime,prob_ranging,prob_high_vol,regime_filter_pass,zscore,signal,entry_price,exit_price,outcome
+run_ts,signal_date,pair,regime,prob_ranging,prob_high_vol,regime_filter_pass,zscore,signal,entry_price,exit_price,outcome,result
+2026-04-28 12:13:11,2026-04-28,EURUSD,,,,,,FLAT,1.16822,,,
+2026-04-28 12:13:11,2026-04-28,GBPUSD,,,,,,FLAT,1.34695,,,
+2026-04-28 12:13:11,2026-04-28,USDJPY,,,,,,FLAT,159.724,,,
